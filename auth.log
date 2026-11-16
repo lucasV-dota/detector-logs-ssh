@@ -1,0 +1,15 @@
+Nov 15 08:12:01 maq CRON[1021]: pam_unix(cron:session): session opened for user root
+Nov 15 08:14:22 maq sshd[2104]: Accepted password for lucas from 192.168.1.15 port 51234 ssh2
+Nov 15 08:15:01 maq sshd[2110]: Failed password for invalid user admin from 45.33.32.156 port 44120 ssh2
+Nov 15 08:15:03 maq sshd[2112]: Failed password for invalid user root from 45.33.32.156 port 44122 ssh2
+Nov 15 08:15:05 maq sshd[2114]: Failed password for invalid user test from 45.33.32.156 port 44125 ssh2
+Nov 15 08:15:07 maq sshd[2116]: Failed password for invalid user ubuntu from 45.33.32.156 port 44128 ssh2
+Nov 15 08:15:09 maq sshd[2118]: Failed password for root from 45.33.32.156 port 44130 ssh2
+Nov 15 08:15:11 maq sshd[2120]: Failed password for root from 45.33.32.156 port 44132 ssh2
+Nov 15 08:20:45 maq sshd[2201]: Failed password for lucas from 192.168.1.20 port 55100 ssh2
+Nov 15 08:30:10 maq sshd[2305]: Failed password for root from 185.220.101.4 port 39812 ssh2
+Nov 15 08:30:12 maq sshd[2307]: Failed password for root from 185.220.101.4 port 39815 ssh2
+Nov 15 08:30:14 maq sshd[2309]: Failed password for invalid user postgres from 185.220.101.4 port 39819 ssh2
+Nov 15 08:30:16 maq sshd[2311]: Failed password for invalid user oracle from 185.220.101.4 port 39822 ssh2
+Nov 15 08:30:18 maq sshd[2313]: Failed password for invalid user admin from 185.220.101.4 port 39825 ssh2
+Nov 15 08:35:00 maq sshd[2400]: Accepted publickey for lucas from 192.168.1.15 port 51290 ssh2

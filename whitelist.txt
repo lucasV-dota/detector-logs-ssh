@@ -1,0 +1,3 @@
+# IPs internas y servidores confiables
+192.168.1.20
+45.33.32.156
